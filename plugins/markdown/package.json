@@ -1,0 +1,19 @@
+{
+  "name": "vite-plugins",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.12.3",
+    "fs": "^0.0.1-security",
+    "vite": "^5.2.7"
+  },
+  "dependencies": {
+    "markdown-it": "^14.1.0"
+  }
+}

@@ -1,0 +1,16 @@
+{
+	// "editor.tabSize": 2,
+
+	"prettier.configPath": ".prettierrc.js",
+	// 保存时 prettier 自动格式化
+	"editor.formatOnSave": true
+	// 保存时自动启用 eslint --fix 自动修复 // 上面的自动格式化开一个就行
+	// "editor.codeActionsOnSave": {
+	//   "source.fixAll": true
+	// },
+	// "[css]": {
+	//   "editor.defaultFormatter": "esbenp.prettier-vscode"
+	// },
+	// "vetur.format.defaultFormatter.js": "prettier",
+	// "vetur.format.defaultFormatter.html": "prettyhtml",
+}
